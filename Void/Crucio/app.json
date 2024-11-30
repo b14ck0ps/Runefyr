@@ -1,0 +1,31 @@
+{
+  "id": "3ace84e0-3ada-4427-a8f6-e4fda84685ec",
+  "name": "Crucio",
+  "publisher": "odyssey-lab",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 80100,
+      "to": 80200
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
